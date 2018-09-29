@@ -1,0 +1,20 @@
+{
+  "name": "string-cosine-similarity",
+  "version": "1.0.0",
+  "description": "Calculates cosine similarity between 2 strings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "string",
+    "cosine",
+    "similarity"
+  ],
+  "author": "Kevin Jain",
+  "license": "ISC",
+  "dependencies": {
+    "anglicize": "^1.0.0",
+    "body-parser": "^1.18.3"
+  }
+}
