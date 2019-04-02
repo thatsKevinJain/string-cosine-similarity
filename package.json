@@ -1,6 +1,6 @@
 {
   "name": "string-cosine-similarity",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Calculates cosine similarity between 2 strings.",
   "main": "index.js",
   "scripts": {
