@@ -2,8 +2,14 @@
 
 Finds cosine similarity between 2 strings
 
+## Installation
+Clone this repo and import it in your project, or you can directly install it using npm.
+```
+npm i string-cosine-similarity
+```
+
 ## Getting Started
-You can use this library by typing the following code.
+You can test this library by typing the following code.
 ```
 var similarity = require('string-cosine-similarity')
 
