@@ -12,5 +12,14 @@
     "similarity"
   ],
   "author": "Kevin Jain",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thatsKevinJain/string-cosine-similarity"
+  },
+  "bugs": {
+    "url": "https://github.com/thatsKevinJain/string-cosine-similarity/issues"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/thatsKevinJain/string-cosine-similarity#README"
 }
