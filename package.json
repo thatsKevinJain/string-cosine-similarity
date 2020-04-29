@@ -1,6 +1,6 @@
 {
   "name": "string-cosine-similarity",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Calculates cosine similarity between 2 strings.",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
     "similarity"
   ],
   "author": "Kevin Jain",
-  "license": "ISC",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/thatsKevinJain/string-cosine-similarity"
@@ -20,6 +20,5 @@
   "bugs": {
     "url": "https://github.com/thatsKevinJain/string-cosine-similarity/issues"
   },
-  "license": "MIT",
   "homepage": "https://github.com/thatsKevinJain/string-cosine-similarity#README"
 }
